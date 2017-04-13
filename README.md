@@ -1,4 +1,4 @@
-![NEXUS Request Ticketing System](https://github.com/JamesParkNINJA/NEXUS/nexus_plugin_logo.jpg "NEXUS Request Ticketing System") ![NEXUS Request Ticketing System](https://github.com/JamesParkNINJA/NEXUS/nexus_preview_banner.jpg "NEXUS Request Ticketing System")
+![NEXUS Request Ticketing System](https://github.com/JamesParkNINJA/NEXUS/images/nexus_plugin_logo.jpg "NEXUS Request Ticketing System") ![NEXUS Request Ticketing System](https://github.com/JamesParkNINJA/NEXUS/images/nexus_preview_banner.jpg "NEXUS Request Ticketing System")
 
 ## NEXUS Request Ticketing System
 
