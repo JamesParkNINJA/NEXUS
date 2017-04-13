@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes
+END
+PHPMailerAutoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/PHPMailerAutoload.php
+END
+Mobile_Detect.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/Mobile_Detect.php
+END
+class.xmlsec.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/class.xmlsec.php
+END
+get_oauth_token.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/get_oauth_token.php
+END
+title.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/title.php
+END
+completed_request_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/completed_request_stats.php
+END
+class.phpmaileroauthgoogle.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/class.phpmaileroauthgoogle.php
+END
+completed_stats_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/completed_stats_new.php
+END
+converter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/converter.rb
+END
+class.Premailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/class.Premailer.php
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/class.pop3.php
+END
+class.phpmaileroauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/class.phpmaileroauth.php
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/class.smtp.php
+END

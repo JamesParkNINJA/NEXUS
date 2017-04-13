@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1605867/nexus/trunk/inc
+END
+footer-nexus.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1604405/nexus/trunk/inc/footer-nexus.php
+END
+page-nexus-dashboard.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1625782/nexus/trunk/inc/page-nexus-dashboard.php
+END
+nexus-query-selector.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1604405/nexus/trunk/inc/nexus-query-selector.php
+END
+nexus-nav-query-selector.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1604405/nexus/trunk/inc/nexus-nav-query-selector.php
+END
+header-nexus.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1604405/nexus/trunk/inc/header-nexus.php
+END

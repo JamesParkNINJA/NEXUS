@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1606467/nexus/trunk/freemius/templates/debug
+END
+plugins-themes-sync.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1606467/nexus/trunk/freemius/templates/debug/plugins-themes-sync.php
+END
+logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1606467/nexus/trunk/freemius/templates/debug/logger.php
+END
+scheduled-crons.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1606467/nexus/trunk/freemius/templates/debug/scheduled-crons.php
+END
+api-calls.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1606467/nexus/trunk/freemius/templates/debug/api-calls.php
+END

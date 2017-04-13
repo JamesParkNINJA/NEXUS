@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/Exceptions
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/Exceptions/Exception.php
+END
+ArgumentNotExistException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/Exceptions/ArgumentNotExistException.php
+END
+OAuthException.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/Exceptions/OAuthException.php
+END
+EmptyArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/Exceptions/EmptyArgumentException.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/Exceptions/InvalidArgumentException.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design
+END
+signoff.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/signoff.php
+END
+completed.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/completed.php
+END
+reject.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/reject.php
+END
+stagecomplete.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/stagecomplete.php
+END
+assigned.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/assigned.php
+END
+mockup.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/mockup.php
+END
+begun.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/begun.php
+END
+newrequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/newrequest.php
+END
+feedbacktoclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/feedbacktoclient.php
+END
+updated.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/updated.php
+END
+feedbackfromclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/design/feedbackfromclient.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin
+END
+common.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin/common.css
+END
+connect.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin/connect.css
+END
+account.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin/account.css
+END
+deactivation-feedback.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin/deactivation-feedback.css
+END
+dialog-boxes.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin/dialog-boxes.css
+END
+license-activation.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin/license-activation.css
+END
+add-ons.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin/add-ons.css
+END
+debug.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1606467/nexus/trunk/freemius/assets/css/admin/debug.css
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers
+END
+class-fs-option-manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers/class-fs-option-manager.php
+END
+class-fs-admin-menu-manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers/class-fs-admin-menu-manager.php
+END
+class-fs-plan-manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers/class-fs-plan-manager.php
+END
+class-fs-key-value-storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers/class-fs-key-value-storage.php
+END
+class-fs-plugin-manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers/class-fs-plugin-manager.php
+END
+class-fs-license-manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers/class-fs-license-manager.php
+END
+class-fs-cache-manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers/class-fs-cache-manager.php
+END
+class-fs-admin-notice-manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/1606467/nexus/trunk/freemius/includes/managers/class-fs-admin-notice-manager.php
+END

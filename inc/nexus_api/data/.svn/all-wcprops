@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/data
+END
+nexus_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/data/nexus_options.php
+END
+mobile_detect.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/data/mobile_detect.php
+END
+current_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/data/current_user.php
+END
+statistics_calculation__WIP.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/data/statistics_calculation__WIP.php
+END
+statistics_calculation.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/data/statistics_calculation.php
+END

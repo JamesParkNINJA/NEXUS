@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1606467/nexus/trunk/freemius/includes
+END
+class-fs-plugin-updater.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1606467/nexus/trunk/freemius/includes/class-fs-plugin-updater.php
+END
+fs-plugin-info-dialog.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1606467/nexus/trunk/freemius/includes/fs-plugin-info-dialog.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1606467/nexus/trunk/freemius/includes/i18n.php
+END
+class-fs-security.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1606467/nexus/trunk/freemius/includes/class-fs-security.php
+END
+class-freemius.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1606467/nexus/trunk/freemius/includes/class-freemius.php
+END
+class-fs-api.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1606467/nexus/trunk/freemius/includes/class-fs-api.php
+END
+class-freemius-abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1606467/nexus/trunk/freemius/includes/class-freemius-abstract.php
+END
+fs-essential-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1606467/nexus/trunk/freemius/includes/fs-essential-functions.php
+END
+fs-core-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1606467/nexus/trunk/freemius/includes/fs-core-functions.php
+END
+class-fs-logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1606467/nexus/trunk/freemius/includes/class-fs-logger.php
+END

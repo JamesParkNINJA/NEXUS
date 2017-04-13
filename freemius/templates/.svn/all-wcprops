@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1606467/nexus/trunk/freemius/templates
+END
+connect.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1606467/nexus/trunk/freemius/templates/connect.php
+END
+pricing.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1606467/nexus/trunk/freemius/templates/pricing.php
+END
+contact.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1606467/nexus/trunk/freemius/templates/contact.php
+END
+account.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1606467/nexus/trunk/freemius/templates/account.php
+END
+checkout.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1606467/nexus/trunk/freemius/templates/checkout.php
+END
+admin-notice.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1606467/nexus/trunk/freemius/templates/admin-notice.php
+END
+add-trial-to-pricing.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1606467/nexus/trunk/freemius/templates/add-trial-to-pricing.php
+END
+powered-by.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1606467/nexus/trunk/freemius/templates/powered-by.php
+END
+all-admin-notice.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1606467/nexus/trunk/freemius/templates/all-admin-notice.php
+END
+billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1606467/nexus/trunk/freemius/templates/billing.php
+END
+plugin-icon.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1606467/nexus/trunk/freemius/templates/plugin-icon.php
+END
+add-ons.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1606467/nexus/trunk/freemius/templates/add-ons.php
+END
+sticky-admin-notice-js.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1606467/nexus/trunk/freemius/templates/sticky-admin-notice-js.php
+END
+debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1606467/nexus/trunk/freemius/templates/debug.php
+END
+email.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1606467/nexus/trunk/freemius/templates/email.php
+END
+firewall-issues-js.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1606467/nexus/trunk/freemius/templates/firewall-issues-js.php
+END

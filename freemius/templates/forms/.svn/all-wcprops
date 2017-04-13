@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1606467/nexus/trunk/freemius/templates/forms
+END
+optout.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1606467/nexus/trunk/freemius/templates/forms/optout.php
+END
+license-activation.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/1606467/nexus/trunk/freemius/templates/forms/license-activation.php
+END
+resend-key.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1606467/nexus/trunk/freemius/templates/forms/resend-key.php
+END
+trial-start.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1606467/nexus/trunk/freemius/templates/forms/trial-start.php
+END

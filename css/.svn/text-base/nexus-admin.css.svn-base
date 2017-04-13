@@ -1,0 +1,196 @@
+.toplevel_page_nexus .dashicons-admin-generic:before {
+    content:'\f115';
+}
+
+.toplevel_page_nexus-requests .dashicons-admin-generic:before {
+    content:'\f163';
+}
+
+.nexus_sidebar {
+    text-align:center;
+    padding:1em;
+    box-sizing: border-box;
+}
+
+.nexus_onoffswitch {
+    position: relative; width: 60px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+input.nexus_onoffswitch-checkbox {
+    display: none;
+}
+.nexus_onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    height: 36px; padding: 0; line-height: 36px;
+    border: 2px solid #E3E3E3; border-radius: 36px;
+    background-color: #E8F4FF;
+    transition: background-color 0.3s ease-in;
+}
+.nexus_onoffswitch-label:before {
+    content: "";
+    display: block; width: 36px; margin: 0px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 22px;
+    border: 2px solid #E3E3E3; border-radius: 36px;
+    transition: all 0.3s ease-in 0s; 
+}
+.nexus_onoffswitch-checkbox:checked + .nexus_onoffswitch-label {
+    background-color: #49E845;
+}
+.nexus_onoffswitch-checkbox:checked + .nexus_onoffswitch-label, .nexus_onoffswitch-checkbox:checked + .nexus_onoffswitch-label:before {
+   border-color: #49E845;
+}
+.nexus_onoffswitch-checkbox:checked + .nexus_onoffswitch-label:before {
+    right: 0px; 
+}
+
+#nexus_form_container input[type=text] {
+    height:40px;
+    line-height:40px;
+    width:100%;
+    max-width:230px;
+    padding:0 10px;
+}
+
+p.nexus_description {
+    font-size:13px;
+}
+
+p.nexus_description > span {
+    font-size:15px;
+    font-weight:bold;
+    display:block;
+}
+
+.nexus_debug_options_box {
+    padding:10px 20px 20px 20px;
+    box-sizing: border-box;
+    border:1px solid #f4d5a8;
+    background:#fff6ea;
+    margin-top:25px;
+}
+
+.nexus_email_options_box {
+    padding:10px 20px 20px 0px;
+    border-top:1px solid #cccccc;
+    box-sizing: border-box;
+    margin-top:25px;
+}
+
+#nexus_request_types  {
+    max-width: 500px; 
+    border: 1px solid #d0d0d0;
+}
+
+#nexus_request_types td  {
+    background: #dedede;
+}
+
+#nexus_request_types td, #nexus_request_types th  {
+    padding:10px;
+}
+
+#nexus_request_types td input[type=text] {
+    max-width:100% !important;
+}
+
+.removeNexusType {
+    background:#de2d2d;
+    color:white;
+    text-decoration:none;
+    padding:9px 17px 9px 15px;
+    border-radius:7px;
+    transition:all 0.3s;
+    box-sizing: border-box;
+    width:100px;
+    display:block;
+    margin:0 auto;
+}
+
+.removeNexusType:hover {
+    background:#a80c0c;
+    color:white;
+}
+
+.addNewNexusType {
+    background:#41de2d;
+    color:white;
+    text-decoration:none;
+    margin-top:20px;
+    padding:9px 17px 9px 15px;
+    border-radius:7px;
+    transition:all 0.3s;
+    box-sizing: border-box;
+    width:126px;
+    display:block;
+    text-align:center;
+}
+
+.addNewNexusType:hover {
+    background:#186a04;
+    color:white;
+}
+
+.addNewNexusType.disabled, .addNewNexusType.disabled:hover {
+    background:#afafaf;
+    color:#333333;
+    pointer-events:none;
+    opacity:0.5;
+}
+
+.nexus_donate {
+    display:block;
+    width:100%;
+    background:#E5E5E5;
+    color:#666666;
+    max-width:256px;
+    border-radius:7px;
+    padding:5px 5px 5px 40px;
+    margin:10px auto;
+    line-height:40px;
+    box-sizing: border-box;
+    position:relative;
+    text-decoration: none;
+    transition:0.3s all;
+}
+
+.nexus_donate:hover {
+    background:#f0c26a;
+    color:#834613;
+}
+
+.txtL { text-align:left; }
+.txtC { text-align:center; }
+.txtR { text-align:right; }
+
+.nexus_donate img {
+    position:absolute;    
+    width: 30px;
+    left: 42px;
+    top: 50%;
+    margin-top: -15px;
+}
+
+.disableSection {
+    opacity:0.5;
+    pointer-events:none;
+}
+
+.topSection {
+    border:1px solid #cccccc;
+    box-sizing: border-box;
+    padding:5px 15px 15px 15px;
+    margin:10px 0;
+}
+
+.topSection p {
+    min-height:215px;
+}
+
+.nexus_request_repeater {
+    border:1px solid #cccccc;
+    padding:20px;
+    box-sizing: border-box;
+    margin-top:25px;
+}

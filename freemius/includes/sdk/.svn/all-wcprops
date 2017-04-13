@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk
+END
+FreemiusBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/FreemiusBase.php
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/LICENSE.txt
+END
+Freemius.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1606467/nexus/trunk/freemius/includes/sdk/Freemius.php
+END

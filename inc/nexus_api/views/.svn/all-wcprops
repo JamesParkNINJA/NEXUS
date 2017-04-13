@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/views
+END
+request_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/views/request_log.php
+END
+single_request.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/views/single_request.php
+END
+current_user_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/views/current_user_view.php
+END
+designer_capacity.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/views/designer_capacity.php
+END
+nexus_page.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/views/nexus_page.php
+END
+profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/views/profile.php
+END
+chatlog.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/views/chatlog.php
+END
+feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/views/feedback.php
+END
+single_feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1604405/nexus/trunk/inc/nexus_api/views/single_feedback.php
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client
+END
+newchat.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1625782/nexus/trunk/inc/nexus_classes/emails/client/newchat.php
+END
+remind_signoff.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/remind_signoff.php
+END
+signoff.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/signoff.php
+END
+stagecomplete.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/stagecomplete.php
+END
+assigned.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/assigned.php
+END
+mockup.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/mockup.php
+END
+editrequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/editrequest.php
+END
+begun.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/begun.php
+END
+newrequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/newrequest.php
+END
+feedbackfromclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/feedbackfromclient.php
+END
+reject.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/reject.php
+END
+completed.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/completed.php
+END
+remind_feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/remind_feedback.php
+END
+updated.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/updated.php
+END
+feedbacktoclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1604405/nexus/trunk/inc/nexus_classes/emails/client/feedbacktoclient.php
+END

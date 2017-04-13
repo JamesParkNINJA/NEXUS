@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1605867/nexus/trunk/inc/nexus_api/lists
+END
+pending_user_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/lists/pending_user_list.php
+END
+application_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1625787/nexus/trunk/inc/nexus_api/lists/application_list.php
+END
+member_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/lists/member_list.php
+END
+request.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1625782/nexus/trunk/inc/nexus_api/lists/request.php
+END
